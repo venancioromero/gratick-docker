@@ -1,5 +1,6 @@
 # Gratick
 
+## Usage: docker-compose up -d
 
 Docker compose that launch telegraf, influxdb, chronograf, kapacitor and grafana.
 <ul>

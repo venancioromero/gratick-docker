@@ -3,7 +3,7 @@
 
 Docker compose that launch telegraf, influxdb, chronograf, kapacitor and grafana.
 <ul>
-  <li>* External links:</li>
+  <li>External links:</li>
 <ul>
 <li>- Telegraf   ->  ports: 8092/udp, 8094, 8125/udp</li>
 <li>- Influxdb   ->  http://localhost:8086</li>
@@ -13,7 +13,7 @@ Docker compose that launch telegraf, influxdb, chronograf, kapacitor and grafana
 </ul>
 </ul>
 <ul>
-  <li>* Internal links:</li>
+  <li>Internal links:</li>
 <ul>
 <li>- Telegraf   ->  telegraf</li>
 <li>- Influxdb   ->  http://influxdb:8086</li>
